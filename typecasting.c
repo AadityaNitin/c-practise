@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
     x = sizeof(a);
     y = sizeof(b);
     z = sizeof(char);
-    /*Typecasting means cganging the data type
+    /*Typecasting means changing the data type
     in above example we have changerd the float data type of b to int */
     printf("%d", b);
     printf("\n%d", x);
